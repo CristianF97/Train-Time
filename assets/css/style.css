@@ -1,0 +1,22 @@
+#background {
+    background-image: url("../images/steam-train.jpg");
+
+}
+
+#jumbo {
+    background-color: #FE5C01;
+    text-align: center;
+}
+#trainBox {
+    padding: 5px;
+}
+
+#cardHead {
+    background-color: #01A3FE;
+    font-size: 24px;
+    font-weight: 900;
+}
+.ForBody{
+    font-size: 24px;
+    font-weight: bold;
+}
